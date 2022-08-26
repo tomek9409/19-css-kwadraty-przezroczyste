@@ -1,0 +1,25 @@
+body {
+  background-color: #f5f5dd;
+}
+div {
+  width: 8em;
+  height: 8em;
+  margin-left: 80px;
+}
+#first {
+  background-color: rgba(0, 0, 0, 1);
+  margin-top: 40px;
+}
+#second {
+  background-color: rgba(0, 0, 0, 0.75);
+  margin-top: 10px;
+}
+#third {
+  background-color: rgba(0, 0, 0, 0.5);
+  margin-top: 10px;
+}
+
+#fourth {
+  background-color: rgba(0, 0, 0, 0.25);
+  margin-top: 10px;
+}
